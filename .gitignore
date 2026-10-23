@@ -1,0 +1,13 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+
+# Compiler/build output folders
+output/
+bin/
+
+# Editor / IDE configuration
+.vscode/
+.idea/
